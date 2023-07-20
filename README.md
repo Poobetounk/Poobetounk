@@ -1,8 +1,8 @@
 # MADT 8101 - Customer Analytics
 
 - [x] [Workshop 1 - Customer Data Platform](./MADT8101%20Telco%20Group7.pdf)  
-- [x] [Workshop 2 - Customer Single View](./Homework%2002%20-%20Jobs%20to%20be%20done)  
-[![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
+- [x] [Workshop 2 - Customer Single View](./Group%204%20MADT%208101%20Class%2018-6-2023)  
+
 - [x] [Workshop 3 - Customer Lifetime Value](./Homework%2003%20-%20Value%20Proposition)  
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 - [x] [Workshop 4 - Churn Scoring](./Homework%2004%20-%20Customer%20Journey)  
