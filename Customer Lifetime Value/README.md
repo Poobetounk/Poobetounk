@@ -11,34 +11,39 @@ The main point is that we would like to find the way to improve Shopee Loyalty P
 Additional Parameters for Loyalty Program
 
 1. Factor: Purchased products per transaction.
+   
 Scoring and Benefits:
+
 Classic    (0 order)     Earn loyalty points for each complete sales order.
+
 Silver     (6 orders)    Earn loyalty points for each complete sales order.
+
 Gold       (24 orders)   Double loyalty points for each complete sale.
+
 Platinum   (10+ orders)  Triple loyalty points for each complete sale.
 
-2. Factor: Purchased amount of products.
+3. Factor: Purchased amount of products.
 Scoring and Benefits:
 Classic    (THB 0)       Earn loyalty points for each complete sales order.
 Silver     (THB 1,500    Earn loyalty points for each complete sales order.
 Gold       (THB 7,500)   Double loyalty points for each complete sale.
 Platinum   (THB 30,000)  Triple loyalty points for each complete sale.
 
-3. Factor: Providing feedback and reviews on purchased products.
+4. Factor: Providing feedback and reviews on purchased products.
 Scoring and Benefits:
 Classic    (0%-25% reviews)    Earn loyalty points for each review submitted.
 Silver     (26%-50% reviews)   Earn loyalty points for each review submitted.
 Gold       (51%-75% reviews)   Double loyalty points for each review and a chance to win monthly gift card giveaways.
 Platinum   (76%-100% reviews)  Triple loyalty points for each review, a free product sample with every purchase, and exclusive access to new product beta testing.
 
-4. Factor: Successfully referring new customers to the e-commerce store.
+5. Factor: Successfully referring new customers to the e-commerce store.
 Scoring and Benefits:
 Classic     (0    referrals)    Earn a referral bonus for each successful referral.
 Silver      (1-2 referrals)     Earn a referral bonus for each successful referral.
 Gold        (3-5 referrals)     Double referral bonus and a one-time discount for the referred customer.
 Platinum    (+5 referrals)      Triple referral bonus, a special gift for each successful referral, and a loyalty points boost for both referrer and referred customer.
 
-5. Factor: Active engagement with the e-commerce brand on social media platforms.
+6. Factor: Active engagement with the e-commerce brand on social media platforms.
 Scoring and Benefits:
 Classic     (0 interactions)       Exclusive access to behind-the-scenes content and product sneak peeks.
 Silver      (1-2 interactions)   Exclusive access to behind-the-scenes content and product sneak peeks.
