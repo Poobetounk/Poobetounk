@@ -54,7 +54,9 @@ Using clustering data to recommend product within group.
 <img width="785" alt="image" src="https://github.com/Poobetounk/Poobetounk/assets/136213004/895a7c66-340d-4504-b697-42c180ba0289">
 
 
+The Python will show the product recommend for each group with the customers ID.
 
+So, after this you can cross-selling with this recommendation 
 
 
 
