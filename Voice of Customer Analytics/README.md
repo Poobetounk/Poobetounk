@@ -11,5 +11,5 @@ Please check python code as attached file
 
 <img width="960" alt="image" src="https://github.com/Poobetounk/Poobetounk/assets/136213004/8ef35e08-8e02-48d0-a337-e41357b75b3a">
 
-As you can see, People reviewed this hotel about Food, Place, Restaurant, Time, Close 
+As you can see, people reviewed this hotel about Food, Place, Restaurant, Time, Close 
 
