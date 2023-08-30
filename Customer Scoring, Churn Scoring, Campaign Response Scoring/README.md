@@ -8,10 +8,15 @@ With the data set we used machine learning to predict customer churning as below
 
    
 Accuracy (Test Set): 0.82
+
 Precision (Test Set): 0.57
+
 Recall (Test Set): 0.27
+
 F1-Score (Test Set): 0.37
+
 AUC (test-proba): 0.78
+
 AUC (train-proba): 0.80
 
 
@@ -19,10 +24,15 @@ AUC (train-proba): 0.80
 
 
 Accuracy (Test Set): 0.82
+
 Precision (Test Set): 0.55
+
 Recall (Test Set): 0.35
+
 F1-Score (Test Set): 0.43
+
 AUC (test-proba): 0.79
+
 AUC (train-proba): 0.83
 
 
@@ -30,10 +40,15 @@ AUC (train-proba): 0.83
 
 
 Accuracy (Test Set): 0.82
+
 Precision (Test Set): 0.54
+
 Recall (Test Set): 0.43
+
 F1-Score (Test Set): 0.48
+
 AUC (test-proba): 0.79
+
 AUC (train-proba): 0.850
 
 
@@ -44,10 +59,15 @@ AUC (train-proba): 0.850
 
 
 Accuracy (Test Set): 0.86
+
 Precision (Test Set): 0.78
+
 Recall (Test Set): 0.39
+
 F1-Score (Test Set): 0.52
+
 AUC (test-proba): 0.86
+
 AUC (train-proba): 0.93
 
 
@@ -58,10 +78,15 @@ AUC (train-proba): 0.93
 
 
 Accuracy (Test Set): 0.86
+
 Precision (Test Set): 0.76
+
 Recall (Test Set): 0.45
+
 F1-Score (Test Set): 0.56
+
 AUC (test-proba): 0.86
+
 AUC (train-proba): 0.90
 
 
